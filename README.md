@@ -88,6 +88,10 @@ Study hours and attendance significantly impact student performance. Proper data
 
 ---
 
+##  Business Insights
+- Schools should encourage higher attendance to improve results.
+- Study hour tracking can help identify weak-performing students.
+
 ##  Future Improvements
 
 * Apply Machine Learning models to predict student performance
