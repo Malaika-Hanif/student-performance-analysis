@@ -103,4 +103,3 @@ Aspiring Data Analyst | Learning Data Analytics & Machine Learning
 
 ---
 
-If you tell me your **exact project topic**, I’ll customize a powerful README specially for that project so it looks unique and not generic 💪
